@@ -1,9 +1,9 @@
-# Задание 2
+# Задание 2: вычислить (x - y) / (1 + x * y)
 
-x = 4
-y = 4
+x = 5
+y = 2
 
-result = (x - y )/( 1 + x * y )
+result = (x - y) / (1 + x * y)
 
-print ("x =", x, "y =", y)
-print (result)
+print('x =', x, 'y =', y)
+print('Результат выражения:', result)
