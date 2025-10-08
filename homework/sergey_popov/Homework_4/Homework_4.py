@@ -1,4 +1,3 @@
-#Домашка №4
 my_dict = {
     'tuple': (1, 2, 3, 4, 5),
     'list': [1, False, 2.41, 'text', None],
