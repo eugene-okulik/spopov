@@ -18,3 +18,4 @@ colon_index = line.index(':')
 number_str = line[colon_index + 1:]
 number = int(number_str)
 print(number + 10)
+
