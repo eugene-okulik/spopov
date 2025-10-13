@@ -1,3 +1,4 @@
+# Задание 2
 # 1-я строка
 line = "результат операции: 42"
 colon_index = line.index(':')
@@ -18,4 +19,3 @@ colon_index = line.index(':')
 number_str = line[colon_index + 1:]
 number = int(number_str)
 print(number + 10)
-
