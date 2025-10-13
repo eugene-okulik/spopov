@@ -8,4 +8,4 @@ area = (a * b) / 2
 
 print('Катеты:', a, b)
 print('Гипотенуза:', hypotenuse)
-print('Площадь:', area)
+print('Площадь:', areagit
